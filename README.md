@@ -1,7 +1,9 @@
 # E41200619_Anton-Sebrianto_Management-SQLite
  
 Nama : Anton Sebrianto
+
 NIM  : E41200619
+
 Prodi TIF 2020 Golongan B
 
 -------------------------------------------------------------------------------------------------------------------
